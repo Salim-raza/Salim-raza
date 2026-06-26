@@ -38,6 +38,8 @@ Currently, I'm improving my skills in asynchronous processing and scalable syste
 Feel free to reach out or collaborate on interesting projects!
 
 * GitHub: https://github.com/Salim-raza
+* Facebook: https://www.facebook.com/md.salim.reza.542488
+* Linkedin: https://www.linkedin.com/in/salim-raza-586073345/
 
 ---
 
