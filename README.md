@@ -28,7 +28,8 @@ Currently, I'm improving my skills in asynchronous processing and scalable syste
 ## 🚀 What I'm Working On
 
 * Building RESTful APIs using Django & DRF
-* Learning advanced Celery & Redis usage
+* Learning Django Channels & WebSockets for real-time applications
+* Exploring Payment Gateway Integration (SSLCommerz / Stripe / bKash, etc.)
 * Exploring system design and optimization
 
 ---
