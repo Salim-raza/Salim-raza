@@ -254,7 +254,7 @@ Improve scalability
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Salim-raza&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=Salim-raza&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
