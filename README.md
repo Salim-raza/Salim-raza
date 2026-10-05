@@ -230,6 +230,8 @@ Improve scalability
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Salim-raza&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
 
+</div>
+<div align="center">
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salim-raza&layout=compact&hide_border=true&theme=tokyonight" />
 
 </div>
