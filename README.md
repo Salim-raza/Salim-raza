@@ -294,7 +294,7 @@ Improve scalability
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/(https://www.facebook.com/md.salim.reza.542488)/">
+<a href="https://www.facebook.com/md.salim.reza.542488/">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
@@ -304,7 +304,7 @@ Improve scalability
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=(https://github.com/Salim-raza/)&style=for-the-badge&color=36BCF7" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=https://github.com/Salim-raza/&style=for-the-badge&color=36BCF7" alt="Profile Views"/>
 
 <br><br>
 
