@@ -1,164 +1,242 @@
+<!-- ===================== HERO SECTION ===================== -->
+
 <div align="center">
 
-# 👋 Hi, I'm Salim Reza
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Salim%20Reza&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Python%20Backend%20Developer&descAlignY=60&descSize=20" width="100%"/>
 
-### 🐍 Python Backend Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Python+Backend+Developer;Django+%7C+DRF+Developer;REST+API+Builder;Backend+%26+System+Design+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Python+Backend+Developer;Django+%7C+Django+REST+Framework;REST+API+Developer;Backend+Engineering+Enthusiast;Learning+Scalable+System+Design" />
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/salim/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/salim/)
+<p>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/salim/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/salim/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
+<!-- ===================== ABOUT ===================== -->
+
 ## 👨‍💻 About Me
 
-I'm a **Python Backend Developer** focused on building RESTful APIs and backend applications using **Django and Django REST Framework**.
+```python
+class BackendDeveloper:
 
-I enjoy designing clean backend architectures, working with databases, authentication systems, asynchronous tasks, and scalable API-based applications.
+    name = "Salim Reza"
+    role = "Python Backend Developer"
 
-* 🔭 Currently building backend projects with **Django & DRF**
-* 🌱 Learning **Django Channels & WebSockets**
-* ⚙️ Exploring **Celery & Redis**
-* 💳 Exploring **Payment Gateway Integration**
-* 🧠 Improving **System Design & Backend Architecture**
-* 🚀 Interested in building scalable backend systems
+    primary_stack = [
+        "Python",
+        "Django",
+        "Django REST Framework"
+    ]
+
+    databases = [
+        "PostgreSQL",
+        "SQLite"
+    ]
+
+    currently_learning = [
+        "Celery",
+        "Redis",
+        "Django Channels",
+        "WebSockets",
+        "System Design"
+    ]
+
+    focus = "Building reliable and scalable backend systems"
+```
+
+I enjoy building **RESTful APIs and backend systems** with Python and Django.
+
+My current focus is improving my understanding of **asynchronous processing, real-time communication, API architecture, database optimization and scalable backend systems**.
 
 ---
+
+<!-- ===================== TECH STACK ===================== -->
 
 ## 🛠️ Tech Stack
 
-### 💻 Backend
+### 🐍 Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,postgresql,redis,git,github" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,django" />
 </p>
 
-### 🔗 Backend Technologies
+<p>
+<img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+</p>
+
+### 🗄️ Database
 
 <p>
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+</p>
 
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-Basic-37814A?style=for-the-badge\&logo=celery\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-Basic-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-02569B?style=for-the-badge)
+### ⚙️ Asynchronous & Real-Time
 
+<p>
+<img src="https://img.shields.io/badge/Celery-Basic-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-Basic-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-Learning-010101?style=for-the-badge"/>
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 🚀 What I'm Working On
+<!-- ===================== WHAT I DO ===================== -->
 
-```text
-🐍 Django & Django REST Framework
-        ↓
-🔗 RESTful API Development
-        ↓
-⚙️ Celery + Redis
-        ↓
-🔌 WebSockets / Django Channels
-        ↓
-💳 Payment Gateway Integration
-        ↓
-🏗️ System Design & Optimization
-```
+## ⚡ What I Do
 
----
+<table>
+<tr>
+<td width="50%">
 
-## 📌 Featured Projects
+### 🔗 REST API Development
 
-### 🔹 Blog API
-
-A backend REST API built with Django REST Framework.
-
-**Features:**
-
-* 🔐 JWT Authentication
-* 📧 OTP Verification
-* 🔑 Password Management
-* 📝 Post CRUD
-* 💬 Comment System
-* 🔎 Search
-* 📄 Pagination
-* 🗂️ Categories
-
-**Tech:** `Python` `Django` `DRF` `PostgreSQL` `JWT`
-
----
-
-### 🔹 Inventory Management System
-
-A backend system designed to manage products, warehouses and stock operations.
-
-**Features:**
-
-* 🏢 Multi-Warehouse Management
-* 👥 Role-Based Access Control
-* 📦 Product Management
-* 📊 Stock In / Stock Out
-* 🔔 Low Stock Alerts
-* 📧 Email Notifications
-* 📱 QR / Barcode Support
-* 📈 Inventory Dashboard
-
-**Tech:** `Python` `Django` `DRF` `SQLite` `Git`
-
----
-
-## 📚 Currently Learning
-
-<details>
-<summary>⚙️ Backend Engineering</summary>
-
-<br>
+Designing and developing RESTful APIs using:
 
 * Django REST Framework
 * Authentication & Authorization
 * JWT
+* CRUD operations
+* Pagination
+* Search & Filtering
+
+</td>
+
+<td width="50%">
+
+### 🏗️ Backend Engineering
+
+Working toward stronger backend architecture through:
+
+* Clean code
+* Database design
+* API optimization
+* Asynchronous tasks
+* Scalable system design
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================== CURRENTLY LEARNING ===================== -->
+
+## 🧠 Currently Learning
+
+<details>
+<summary><b>⚙️ Backend & Distributed Systems</b></summary>
+
+<br>
+
 * Celery
 * Redis
-* Django Channels
-* WebSockets
+* Asynchronous Task Processing
+* Background Jobs
+* Caching
 * API Optimization
-* Database Optimization
-* System Design
 
 </details>
 
 <details>
-<summary>🚀 Future Learning</summary>
+<summary><b>🔌 Real-Time Backend</b></summary>
+
+<br>
+
+* Django Channels
+* WebSockets
+* ASGI
+* Real-Time Communication
+* Event-driven applications
+
+</details>
+
+<details>
+<summary><b>🏗️ System Design</b></summary>
+
+<br>
+
+* Database optimization
+* Caching strategies
+* API scalability
+* Backend architecture
+* High-level system design concepts
+
+</details>
+
+<details>
+<summary><b>💳 Integrations</b></summary>
 
 <br>
 
 * Payment Gateway Integration
-* Advanced System Design
-* AI Integration with Backend
-* RAG-based Applications
-* Vector Databases
-* AI-powered REST APIs
+* SSLCommerz
+* Stripe
+* bKash
+* Third-party API integration
 
 </details>
 
 ---
 
-## 📊 GitHub Statistics
+<!-- ===================== DEVELOPMENT PHILOSOPHY ===================== -->
+
+## 🧩 Development Philosophy
+
+```text
+Understand the problem
+        ↓
+Design the API
+        ↓
+Design the database
+        ↓
+Implement the backend
+        ↓
+Test the API
+        ↓
+Optimize
+        ↓
+Improve scalability
+```
+
+> "Write code that is understandable today and maintainable tomorrow."
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight" />
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <div align="center">
 
@@ -168,48 +246,67 @@ A backend system designed to manage products, warehouses and stock operations.
 
 ---
 
-## 🐍 My Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
+<!-- ===================== ACTIVITY GRAPH ===================== -->
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
 ---
 
-## 🎯 2026 Goals
+<!-- ===================== SNAKE ===================== -->
 
-```text
-✅ Strengthen Python
-✅ Build production-ready Django APIs
-✅ Improve DRF expertise
-⬜ Master Celery & Redis
-⬜ Build real-time applications
-⬜ Learn advanced System Design
-⬜ Build AI-integrated backend projects
-⬜ Become a strong Junior Backend Developer
-```
-
----
-
-## 📫 Let's Connect
+## 🐍 Contribution Journey
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/salim/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/salim/)
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+<!-- ===================== CURRENT FOCUS ===================== -->
+
+## 🎯 Current Focus
+
+<div align="center">
+
+|        Area       |             Focus             |
+| :---------------: | :---------------------------: |
+|     🐍 Python     |      Backend Development      |
+|     🌐 Django     |  Web Application Development  |
+|       🔗 DRF      |      REST API Engineering     |
+|     ⚙️ Celery     |     Background Processing     |
+|      🔴 Redis     |    Caching & Async Systems    |
+|   🔌 WebSockets   |     Real-Time Applications    |
+| 🏗️ System Design | Scalable Backend Architecture |
+
+</div>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Salim-raza/">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/salim-raza-dev/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/(https://www.facebook.com/md.salim.reza.542488)/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
 </div>
 
@@ -217,8 +314,14 @@ A backend system designed to manage products, warehouses and stock operations.
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+<img src="https://komarev.com/ghpvc/?username=(https://github.com/Salim-raza/)&style=for-the-badge&color=36BCF7" alt="Profile Views"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue" alt="Profile Views" />
+<br><br>
+
+### 🚀 Building. Learning. Improving.
 
 </div>
+
+<!-- ===================== FOOTER ===================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling" width="100%"/>
