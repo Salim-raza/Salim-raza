@@ -228,9 +228,9 @@ Improve scalability
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Salim-raza&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salim-raza&layout=compact&hide_border=true&theme=tokyonight" />
 
 </div>
 
